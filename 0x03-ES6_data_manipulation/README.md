@@ -1,4 +1,4 @@
-# 0x11. ES6 data manipulation
+# 0x03. ES6 data manipulation
 :open_file_folder: Specializations - Web Stack programming ― Front-end  
 :bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
 
